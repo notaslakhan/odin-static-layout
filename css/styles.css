@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 
-/* header styles */
+/* header styles start */
 
 .header {
   padding-top: 10px;
@@ -36,7 +36,28 @@
   color: #fff;
 }
 
-/* header styles */
+/* header styles end */
 
 
-/* main section styles */
+/* main section styles start */
+
+.awesome-website {
+  background-color: #1f2937;
+  color: #fff;
+  padding-top: 100px;
+}
+
+.awesome-text-and-image {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.awesome-txt h1 {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.awesome-txt p {
+  font-size: 18px;
+  color: #fff;
+}
