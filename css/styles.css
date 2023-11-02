@@ -93,7 +93,7 @@
 
 /* main section styles end */ 
 
-/* random info section */
+/* random info section styles start */
 
 .random-info-heading {
   text-align: center;
@@ -129,4 +129,34 @@
 
 .random-info {
   margin-bottom: 100px;
+}
+
+/* random info section styles end */
+
+/* quote section styles start */
+
+.quote-section {
+  background-color: rgb(174, 174, 174);
+}
+
+.quote-itself {
+  height: 90px;
+  font-size: 28px;
+  text-align: center;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quote-box {
+  width: 1100px;
+  margin: 0 auto;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.author {
+  font-weight: 700;
+  display: flex;
+  justify-content: right;
+  font-size: 20px;
 }
