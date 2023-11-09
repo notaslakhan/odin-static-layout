@@ -160,3 +160,12 @@
   justify-content: right;
   font-size: 20px;
 }
+
+/* quote section styles end */
+
+/* contact-section styles start */
+
+.contact-section {
+  width: 1100px;
+  margin: auto;
+}
